@@ -1,6 +1,6 @@
 
 const btnAvancar = document.getElementById("btn-avancar");
-const btnvoltar = document.getElementById("btn-Voltar");
+const btnVoltar = document.getElementById("btn-voltar");
 
 let cartaoAtual = 0;
 const cartoes = document.querySelectorAll(".cartao");
